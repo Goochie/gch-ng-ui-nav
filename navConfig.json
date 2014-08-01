@@ -1,0 +1,85 @@
+[
+    {
+        "label": "Home",
+        "id": "home",
+        "link": "/"
+
+
+    },
+    {
+        "label": "Profile",
+        "id": "profile",
+        "link": "/profile"
+
+
+    },
+    {
+        "label": "Angular",
+        "id": "angular",
+        "link": "/angular",
+        "subNav": "true",
+        "subItems":[
+            {
+                "label": "Basics",
+                "id": "basics",
+                "link": "/basics"
+            },
+            {
+                "label": "Filters",
+                "id": "filters",
+                "link": "/filters"
+            },
+            {
+                "label": "Directives",
+                "id": "directives",
+                "link": "/directives"
+            },
+            {
+                "label": "UI",
+                "id": "ui",
+                "link": "/ui"
+            },
+            {
+                "label": "ng grid",
+                "id": "dataGrid",
+                "link": "/dataGrid"
+            },
+            {
+                "label": "Scope",
+                "id": "scope",
+                "link": "/scope"
+            },
+            {
+                "label": "Lazy Loading",
+                "id": "lazyLoading",
+                "link": "/lazyLoading"
+            },
+            {
+                "label": "Digest Loop",
+                "id": "digestLoop",
+                "link": "/digestLoop"
+            },
+            {
+                "label": "Best Practises",
+                "id": "bestPractise",
+                "link": "/bestPractices"
+            }
+
+
+        ]
+    },
+    {
+        "label": "Node",
+        "id": "node",
+        "link": "/node"
+    } ,
+    {
+        "label": "HTML5",
+        "id": "html5",
+        "link": "/html5"
+    }
+
+]
+
+
+
